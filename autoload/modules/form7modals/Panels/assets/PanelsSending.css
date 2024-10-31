@@ -1,0 +1,33 @@
+[for="wpcf7-message-mail-sent-ok"]{
+    display: none;
+}
+.pop_up_maker_for_cf7_settngs td,
+.pop_up_maker_for_cf7_settngs th{
+    padding: .5em 1em;
+    text-align: left;
+}
+
+.pop_up_maker_for_cf7_settngs tr:not(:first-child) th{
+    width: 220px;
+}
+
+@media (max-width:1023px){
+    .pop_up_maker_for_cf7_settngs tr{
+        display: flex !important;
+        flex-direction: column;
+    }
+
+    .pop_up_maker_for_cf7_settngs td> input{
+        width: 100%;
+    }
+
+    .clr-field,
+    .clr-field input{
+        width: 100%;
+    }
+
+    .box_shadow_wrapper{
+        display: flex;
+        flex-direction: column;
+    }
+}

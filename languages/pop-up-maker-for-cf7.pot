@@ -1,0 +1,68 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: /pop-up-maker-for-cf7/autoload/modules/form7modals/Panels/PanelsSending/PanelsSending.php:107
+msgid "Activate modal messages"
+msgstr ""
+
+#: /pop-up-maker-for-cf7/autoload/modules/form7modals/Panels/PanelsSending/PanelsSending.php:109
+msgid "Max. width px"
+msgstr ""
+
+#: /pop-up-maker-for-cf7/autoload/modules/form7modals/Panels/PanelsSending/PanelsSending.php:110
+msgid "Min. height px"
+msgstr ""
+
+#: /pop-up-maker-for-cf7/autoload/modules/form7modals/Panels/PanelsSending/PanelsSending.php:111
+msgid "Border width px"
+msgstr ""
+
+#: /pop-up-maker-for-cf7/autoload/modules/form7modals/Panels/PanelsSending/PanelsSending.php:112
+msgid "Border color"
+msgstr ""
+
+#: /pop-up-maker-for-cf7/autoload/modules/form7modals/Panels/PanelsSending/PanelsSending.php:113
+msgid "Background color"
+msgstr ""
+
+#: /pop-up-maker-for-cf7/autoload/modules/form7modals/Panels/PanelsSending/PanelsSending.php:114
+msgid "Background overlay color"
+msgstr ""
+
+#: /pop-up-maker-for-cf7/autoload/modules/form7modals/Panels/PanelsSending/PanelsSending.php:115
+msgid "Color message"
+msgstr ""
+
+#: /pop-up-maker-for-cf7/autoload/modules/form7modals/Panels/PanelsSending/PanelsSending.php:116
+msgid "Shadow box"
+msgstr ""
+
+#: /pop-up-maker-for-cf7/autoload/modules/form7modals/Panels/PanelsSending/PanelsSending.php:117
+msgid "Messages of Successfulness"
+msgstr ""
+
+#: /pop-up-maker-for-cf7/autoload/modules/form7modals/Panels/PanelsSending/PanelsSending.php:16
+msgid "Sending modal"
+msgstr ""
+
+# Errors
+
+msgid "there is no method in basic\plugin"
+msgstr ""
+
+msgid "Error connecting class file"
+msgstr ""
+
+msgid "File for class %s by %s does not exist"
+msgstr ""
